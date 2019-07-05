@@ -1,0 +1,11 @@
+.main-open {
+  -webkit-transform: translateX(20%);
+  -moz-transform: translateX(20%);
+  -ms-transform: translateX(20%);
+  transform: translateX(20%);
+}
+
+
+aside {
+  right: 80%;
+}
